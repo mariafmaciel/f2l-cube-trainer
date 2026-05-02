@@ -1,5 +1,5 @@
 # F2L Trainer- Rubik's Cube 🧩
-This is a beginner's first project created to trains and prative F2L (First Two Layers) of the rubik's cube, while learning proagraming, mainly focused on Python. 
-It's still under development and continuously evolving.
+This is a beginner's project created to practice F2L (First Two Layers) of the Rubik's Cube, while learning proagramming with Python. 
+It's still a work in progress and constantly evolving.
 
-•Goal: practice solving algorithms, improve case recognition and reduce solving time.
+•Goal: practice solving algorithms, improve case recognition, and reduce solving time.
