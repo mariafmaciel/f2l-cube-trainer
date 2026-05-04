@@ -91,9 +91,9 @@ my_dic_sol = {'1' : "U R U' R'",
 while True:
  resposta = input("Olá, vamos treinar F2L? Sim ou Não?\n")
  if resposta == "sim":
-     resposta1 = input('Voce quer visualizar o embaralhamento, a solução ou os dois?\n')
+     resposta1 = input('Você quer visualizar o embaralhamento, a solução ou os dois?\n')
      if resposta1 == 'solucao':
-        number1 = input('Qual caso de F2L você tem em mente?\n')
+        number1 = input('Qual caso de F2L você tem em mente?\n')      
         print (f'Aqui esta a solução n°{number1}:\n')
         print (f'\n-----{my_dic_sol[(number1)]}-----\n')
      elif resposta1 == 'embaralhamento':
