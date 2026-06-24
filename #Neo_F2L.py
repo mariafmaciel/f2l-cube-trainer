@@ -199,9 +199,9 @@ while True:
                          digitar(
                             f"\nAqui esta a solução e embaralhamento do caso n°{number3}:\n")
                          digitar('\nEmbaralhamento:\n')
-                         print(f'-----{my_dic_sol[(number3)]}-----\n')
-                         digitar('Solução:\n')
                          print(f'-----{my_dic_emb[(number3)]}-----\n')
+                         digitar('Solução:\n')
+                         print(f'-----{my_dic_sol[(number3)]}-----\n')
                         except KeyError:
                             limpar()
                             digitar(
@@ -236,7 +236,7 @@ while True:
                 texto = input()
                 if texto == '1':
                     break
-                if texto == '2':
+                elif texto == '2':
                     limpar()
                     sys.exit()
             elif resposta2 == '5':
